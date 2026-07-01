@@ -1,53 +1,65 @@
-<h1 align="center">Hi 👋, I'm Asim Abid Ktk </h1>
-<h3 align="center">AI/ML Researcher • Computer Vision • NLP • Deep Learning • Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Asim Abid Khattak</h1>
+
+<h3 align="center">
+AI/ML Researcher • Computer Vision • NLP • Deep Learning • Python Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Researcher;Deep+Learning+Engineer;Computer+Vision+Developer;NLP+%26+Transformer+Models;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Computer+Vision+Engineer;Deep+Learning+Developer;Natural+Language+Processing;Transformer+Models;Generative+AI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=CadetTech2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/CadetTech2?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/CadetTech2?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 🎓 BS Computer Science Student at **NAMAL University** (2023–2027)
 
-🧠 AI/ML Researcher specializing in
+🔬 AI/ML Researcher passionate about solving real-world problems using Artificial Intelligence.
 
-- Computer Vision
-- Natural Language Processing
-- Transformer Models
-- Deep Learning
-- Machine Learning
+### Areas of Interest
 
-📚 IEEE Published Researcher
-
-🔬 Currently working on
-
-- 🧠 Brain Tumor Detection using Deep Learning
-- 🦠 Nipah Virus Spread Prediction using AI
-- 🤖 AI-powered Educational Systems
-- 👁️ Computer Vision Applications
-
-💡 Interested in
-
-- Artificial Intelligence
-- Deep Learning
-- Generative AI
-- Computer Vision
-- NLP
-- Cloud AI
-- MLOps
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁 Computer Vision
+- 💬 Natural Language Processing
+- 🔥 Deep Learning
+- ⚡ Generative AI
+- ☁ Azure AI
+- 🚀 MLOps
 
 ---
 
-## 🌐 Connect with Me
+# 🔬 Current Research
+
+🧠 Brain Tumor Detection using Deep Learning
+
+🦠 Nipah Virus Prediction using Machine Learning
+
+📚 AI-powered Educational Systems
+
+👁 Intelligent Computer Vision Applications
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="mailto:asimabidktk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/CadetTech2">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -58,16 +70,33 @@
 <a href="https://my-portfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,sql"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=sql"/>
+
 </p>
 
 ---
@@ -75,20 +104,39 @@
 ## AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ALBERT-0066CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BERT-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ALBERT-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CNN-darkgreen?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## Database
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
 </p>
 
 ---
@@ -96,7 +144,17 @@
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
 ---
@@ -104,7 +162,13 @@
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,anaconda"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+<img src="https://skillicons.dev/icons?i=jupyter"/>
+
 </p>
 
 ---
@@ -113,9 +177,11 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=CadetTech2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadetTech2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +191,8 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=CadetTech2&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +202,8 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=CadetTech2&theme=tokyo-night"/>
 
 </p>
 
@@ -145,7 +213,8 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=CadetTech2&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -155,23 +224,36 @@
 
 ## 🧠 Brain Tumor Detection using Deep Learning
 
-- EfficientNet
-- ResNet
+- EfficientNet-B3
+- ResNet-50
 - PyTorch
 - Medical Imaging
 - CNN
+- Transfer Learning
 
 ---
 
-## 📩 SMS Spam Detection (IEEE Research)
+## 🦠 Nipah Virus Prediction using Machine Learning
+
+- Bioinformatics
+- DNA Sequence Analysis
+- K-mer Encoding
+- Machine Learning
+- Deep Learning
+
+---
+
+## 📩 IEEE Published Research
+
+### SMS Spam Detection
 
 - ALBERT
-- NLP
 - Transformers
+- NLP
 - TF-IDF
 - Sentence Embeddings
 
-Published in IEEE Conference
+📖 Published in IEEE Conference
 
 ---
 
@@ -180,20 +262,21 @@ Published in IEEE Conference
 - OCR
 - Ollama
 - LLM
+- AI Evaluation
 - Automated Grading
 
 ---
 
-## 🛰️ Smart Surveillance System
+## 🛰 Smart Surveillance System
 
+- Cisco Packet Tracer
 - IoT
-- Cisco
 - Networking
-- Real-time Monitoring
+- Security
 
 ---
 
-## 🍽️ Restaurant Management System
+## 🍽 Restaurant Management System
 
 - Python
 - MySQL
@@ -202,20 +285,15 @@ Published in IEEE Conference
 
 ---
 
-# 📚 Research
+# 📚 Publications
 
-### 📄 IEEE Published Research
+🏆 IEEE Published Research
 
-SMS Spam Detection using Transformer Models
-
-- ALBERT
-- NLP
-- Deep Learning
-- IEEE Xplore
+📄 SMS Spam Detection using Transformer Models
 
 ---
 
-### Ongoing Research
+# 🧪 Ongoing Research
 
 🧠 Brain Tumor Detection
 
@@ -223,48 +301,62 @@ SMS Spam Detection using Transformer Models
 
 🤖 AI in Healthcare
 
+💬 Large Language Models
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models
+
+- LangChain
+
+- RAG
+
+- Agentic AI
+
+- Kubernetes
+
+- Docker
+
+- Azure AI
+
+- MLOps
+
+- Fine-Tuning LLMs
+
 ---
 
 # 🏅 Achievements
 
 🏆 IEEE Published Researcher
 
-🎓 Computer Science Student
+🥇 AI/ML Research Enthusiast
 
-🧠 AI & ML Research Enthusiast
+🎓 BS Computer Science Student
 
-🚀 Open Source Learner
-
----
-
-# 📖 Currently Learning
-
-- Large Language Models
-- LangChain
-- RAG
-- MLOps
-- Kubernetes
-- Docker
-- Azure AI
-- Agentic AI
-- Generative AI
+🚀 Open Source Contributor
 
 ---
 
-# 💬 Favorite Quote
+# 💡 Quote
 
-> "Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."
+> **"Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CadetTech2&theme=tokyonight"/>
 
 </p>
 
+---
+
 <p align="center">
 
-### ⭐ If you like my work, don't forget to star my repositories!
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
