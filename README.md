@@ -1,362 +1,207 @@
-<h1 align="center">Hi 👋, I'm Asim Abid Khattak</h1>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h3 align="center">
-AI/ML Researcher • Computer Vision • NLP • Deep Learning • Python Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Asim%20Abid%20Khattak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20NLP%20%E2%80%A2%20Deep%20Learning&descAlignY=58&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Researcher;Computer+Vision+Engineer;Deep+Learning+Developer;NLP+%26+Transformer+Models;Generative+AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=CadetTech2&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/CadetTech2?style=flat-square&logo=github&color=0e75b6"/>
+<img src="https://img.shields.io/github/stars/CadetTech2?style=flat-square&logo=github&color=0e75b6"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 💫 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
+🎓 BS Computer Science student at **NAMAL University** (2023 – 2027)
+🔬 AI/ML researcher solving real-world problems with Artificial Intelligence
+🏆 **IEEE-published** author (SMS Spam Detection using Transformers)
+🌱 Currently exploring **LLMs, RAG, Agentic AI & MLOps**
+
+**Areas of Interest:** `Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `NLP` · `Deep Learning` · `Generative AI` · `Azure AI` · `MLOps`
+
+<br clear="right"/>
+
+---
+
+## 🔬 Current Research
+
+| Focus | Description |
+|:--|:--|
+| 🧠 **Brain Tumor Detection** | Deep learning on medical imaging |
+| 🦠 **Nipah Virus Prediction** | ML on DNA sequences |
+| 📚 **AI Educational Systems** | AI-powered learning tools |
+| 👁 **Intelligent Vision Apps** | Real-world computer vision |
+| 💬 **LLMs & Healthcare AI** | Language models in medicine |
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Computer+Vision+Engineer;Deep+Learning+Developer;Natural+Language+Processing;Transformer+Models;Generative+AI+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=CadetTech2&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/CadetTech2?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/CadetTech2?style=for-the-badge&logo=github"/>
-
+<a href="mailto:asimabidktk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/CadetTech2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-# 💫 About Me
+## 💻 Tech Stack
 
-🎓 BS Computer Science Student at **NAMAL University** (2023–2027)
+<div align="center">
 
-🔬 AI/ML Researcher passionate about solving real-world problems using Artificial Intelligence.
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,sql" />
 
-### Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- 🔥 Deep Learning
-- ⚡ Generative AI
-- ☁ Azure AI
-- 🚀 MLOps
-
----
-
-# 🔬 Current Research
-
-🧠 Brain Tumor Detection using Deep Learning
-
-🦠 Nipah Virus Prediction using Machine Learning
-
-📚 AI-powered Educational Systems
-
-👁 Intelligent Computer Vision Applications
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:asimabidktk@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/CadetTech2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://my-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=sql"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
+**AI / Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /><br/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALBERT-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-2E7D32?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+**Cloud, DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,linux,anaconda,jupyter" />
 
-<img src="https://img.shields.io/badge/BERT-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ALBERT-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LSTM-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CNN-darkgreen?style=for-the-badge"/>
-
-</p>
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
+</div>
 
 ---
 
-## Cloud & DevOps
+## 📊 GitHub Stats
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CadetTech2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadetTech2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://streak-stats.demolab.com?user=CadetTech2&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CadetTech2&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CadetTech2&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-<img src="https://skillicons.dev/icons?i=jupyter"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=CadetTech2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+### 🧠 Brain Tumor Detection
+Deep learning on MRI scans using transfer learning.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadetTech2&layout=compact&theme=tokyonight&hide_border=true"/>
+`EfficientNet-B3` `ResNet-50` `PyTorch` `CNN` `Medical Imaging`
 
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🦠 Nipah Virus Prediction
+Predicting from DNA sequences with k-mer encoding.
 
-# 🔥 GitHub Streak
+`Bioinformatics` `K-mer` `ML` `Deep Learning`
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img
-src="https://streak-stats.demolab.com?user=CadetTech2&theme=tokyonight&hide_border=true"/>
+### 📩 SMS Spam Detection &nbsp;🏆 IEEE
+Transformer-based spam classifier, published at an IEEE conference.
 
-</p>
+`ALBERT` `Transformers` `NLP` `TF-IDF` `Sentence Embeddings`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📈 Contribution Graph
+### 🤖 AI Quiz Checker
+Automated grading of handwritten/printed quizzes with an LLM.
 
-<p align="center">
+`OCR` `Ollama` `LLM` `Automated Grading`
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=CadetTech2&theme=tokyo-night"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🛰 Smart Surveillance System
+Secure IoT-based surveillance network simulation.
 
----
+`Cisco Packet Tracer` `IoT` `Networking` `Security`
 
-# 🏆 GitHub Trophies
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🍽 Restaurant Management System
+Full management app with database backend.
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=CadetTech2&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+`Python` `MySQL` `HTML` `CSS`
 
-</p>
+</td>
+</tr>
+</table>
 
----
-
-# 🚀 Featured Projects
-
-## 🧠 Brain Tumor Detection using Deep Learning
-
-- EfficientNet-B3
-- ResNet-50
-- PyTorch
-- Medical Imaging
-- CNN
-- Transfer Learning
-
----
-
-## 🦠 Nipah Virus Prediction using Machine Learning
-
-- Bioinformatics
-- DNA Sequence Analysis
-- K-mer Encoding
-- Machine Learning
-- Deep Learning
+> 💡 Tip: add links like `[View Repo](https://github.com/CadetTech2/REPO_NAME)` under each project.
 
 ---
 
-## 📩 IEEE Published Research
+## 📚 Publication
 
-### SMS Spam Detection
-
-- ALBERT
-- Transformers
-- NLP
-- TF-IDF
-- Sentence Embeddings
-
-📖 Published in IEEE Conference
+🏆 **SMS Spam Detection using Transformer Models**: IEEE Conference
 
 ---
 
-## 🤖 AI Quiz Checker
+## 🌱 Currently Learning
 
-- OCR
-- Ollama
-- LLM
-- AI Evaluation
-- Automated Grading
+<div align="center">
 
----
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF4081?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-009688?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning_LLMs-FF9800?style=for-the-badge)
 
-## 🛰 Smart Surveillance System
-
-- Cisco Packet Tracer
-- IoT
-- Networking
-- Security
-
----
-
-## 🍽 Restaurant Management System
-
-- Python
-- MySQL
-- HTML
-- CSS
+</div>
 
 ---
 
-# 📚 Publications
+## 🏅 Achievements
 
-🏆 IEEE Published Research
-
-📄 SMS Spam Detection using Transformer Models
-
----
-
-# 🧪 Ongoing Research
-
-🧠 Brain Tumor Detection
-
-🦠 Nipah Virus Prediction
-
-🤖 AI in Healthcare
-
-💬 Large Language Models
+- 🏆 IEEE Published Researcher
+- 🥇 AI/ML Research Enthusiast
+- 🚀 Open Source Contributor
 
 ---
 
-# 🌱 Currently Learning
-
-- Large Language Models
-
-- LangChain
-
-- RAG
-
-- Agentic AI
-
-- Kubernetes
-
-- Docker
-
-- Azure AI
-
-- MLOps
-
-- Fine-Tuning LLMs
-
----
-
-# 🏅 Achievements
-
-🏆 IEEE Published Researcher
-
-🥇 AI/ML Research Enthusiast
-
-🎓 BS Computer Science Student
-
-🚀 Open Source Contributor
-
----
-
-# 💡 Quote
+<div align="center">
 
 > **"Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."**
 
----
-
-<p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CadetTech2&theme=tokyonight"/>
 
-</p>
+### ⭐ Thanks for visiting! If you like my work, consider starring my repositories.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+</div>
